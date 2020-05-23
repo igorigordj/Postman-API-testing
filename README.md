@@ -1,4 +1,5 @@
 # Postman-API-testing
+For testing is used  Chai Assertion Library.
 This is a basic VueJs, Vuetify, Vue Router and Vuex skeleton written on JavaScript.
 
 FEAUTURES:
